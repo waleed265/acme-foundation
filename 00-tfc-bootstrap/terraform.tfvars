@@ -1,4 +1,4 @@
-bootstrap_folder_name = "TFC-bootstrap-latest"
+bootstrap_folder_name = "TFC-bootstrap"
 folders = {
   admin  = "acme-admin"
   dev    = "acme-dev",
